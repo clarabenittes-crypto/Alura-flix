@@ -1,5 +1,11 @@
 body{
     background-color: rgb(40, 38, 38);
     color: rgb(244, 190, 40);
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Courier New', Courier, monospace;
+}
+header{
+    font-size: 50px;
+}
+h1{
+    font-size: 30px;
 }
