@@ -6,10 +6,22 @@ body{
 header{
     font-size: 50px;
     border: double 5px orange;
+    text-align: center;
+    /*margin: 30px;*/
+    padding: 30px;
+    color: gold;
 }
 h1{
     font-size: 30px;
 }
 p{
     font-size: 20px;
+}
+
+section{
+background-color:gold;
+padding-bottom: 80px;
+display: flex;
+justify-content: center;
+
 }
