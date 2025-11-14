@@ -1,11 +1,11 @@
 body{
     background-color: rgb(40, 38, 38);
-    color: rgb(244, 190, 40);
+    color: rgb(4, 3, 0);
     font-family: 'Courier New', Courier, monospace;
 }
 header{
     font-size: 50px;
-    border: double 5px rgb(46, 38, 25);
+    border: double 5px rgb(236, 164, 48);
     text-align: center;
     /*margin: 30px;*/
     padding: 30px;
